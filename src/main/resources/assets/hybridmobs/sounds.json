@@ -1,0 +1,15 @@
+{
+  "entity.zomeleton.death": {
+    "sounds": [
+      "hybridmobs:entity/zomeleton/death"
+    ],
+    "subtitle": "subtitles.hybridmobs.entity.zomeleton.death"
+  },
+  "entity.zomeleton.hurt": {
+    "sounds": [
+      "hybridmobs:entity/zomeleton/hurt1",
+      "hybridmobs:entity/zomeleton/hurt2"
+    ],
+    "subtitle": "subtitles.hybridmobs.entity.zomeleton.hurt"
+  }
+}
